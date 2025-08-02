@@ -222,7 +222,6 @@ private fun BottomAnimatedContent(
                             .weight(1f),
                         text = "Choose Destination",
                         style = MaterialTheme.typography.titleLarge,
-                        fontStyle = FontStyle.Italic,
                         fontWeight = FontWeight.Medium
                     )
                 }

@@ -64,6 +64,9 @@ dependencies {
     // dagger hilt injection
     implementation("com.google.dagger:hilt-android:2.49")
     implementation(libs.androidx.lifecycle.runtime.compose.android)
+    testImplementation(libs.junit.junit)
+    testImplementation(libs.junit.junit)
+    testImplementation(libs.junit.junit)
     kapt("com.google.dagger:hilt-android-compiler:2.49")
     implementation("androidx.hilt:hilt-navigation-compose:1.2.0")
 
