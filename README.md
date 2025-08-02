@@ -61,4 +61,4 @@ An Android app that enables seamless **AR-based navigation on campus**, using **
 
 1. Clone the repository  
    ```bash
-   git clone [https://github.com/varunkumar2004/WayFinder.git](https://github.com/varunkumar2004/WayFinder.git)
+   git clone https://github.com/varunkumar2004/WayFinder.git
