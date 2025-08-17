@@ -11,12 +11,11 @@ import javax.inject.Singleton
 
 @Module
 @InstallIn(SingletonComponent::class)
-object ApplicationModule {
-    @Singleton
+object LocationModule {
+
     @Provides
-    fun provideLocationRepository(
-        @ApplicationContext context: Context
-    ): LocationRepository {
+    @Singleton
+    fun provideLocationRepository(@ApplicationContext context: Context): LocationRepository {
         return LocationRepository(context)
     }
 }
