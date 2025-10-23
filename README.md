@@ -10,7 +10,7 @@ An Android app that enables seamless **AR-based navigation on campus**, using **
 - 🧭 **Custom Campus Mapping**: Built-in map data specific to your institution.
 - 🎓 **Campus POIs (Points of Interest)**: Navigate to departments, hostels, libraries, cafeterias, etc.
 - ✅ **Minimal UI**: Clean and simple design tailored for students and first-time visitors.
-- 🚀 **Now on Play Store**: [Play Store Link](https://play.google.com/store/apps/details?id=com.yourdomain.arcampusnavigator)
+- 🚀 **Currently on Play Store under Closed testing**
 
 ---
 
@@ -53,7 +53,9 @@ An Android app that enables seamless **AR-based navigation on campus**, using **
 
 ## 📸 Screenshots
 
-> Add screenshots here once the UI and AR features are finalized
+| Destination Choose Alert                          | Destination Navigation                           |
+|---------------------------------------------------|--------------------------------------------------|
+| <img src="assets/screenshot_1.jpg" width="250"/>  | <img src="assets/screenshot_2.jpg" width="250"/> |
 
 ---
 
